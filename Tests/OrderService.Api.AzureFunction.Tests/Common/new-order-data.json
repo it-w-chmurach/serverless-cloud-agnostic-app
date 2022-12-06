@@ -1,0 +1,32 @@
+{
+  "user": {
+    "id": "e16341fa-3330-4a74-8af7-2fc3c3a5816c",
+    "StatusNumber": 0
+  },
+  "shippingAddress": {
+    "country": "United States",
+    "city": "Charlottesville",
+    "postalCode": "22908",
+    "addressLine": "5737 Maple Wood Center"
+  },
+  "products": [
+    {
+      "id": "ade61dde-5288-4e99-adf4-08be346852a6",
+      "name": "Icecream - Dstk Cml And Fdg",
+      "price": 9.01,
+      "orderedQuantity": 9
+    },
+    {
+      "id": "66f0e141-ac02-4cee-8daa-66dfa97f148c",
+      "name": "Rabbit - Saddles",
+      "price": 5.92,
+      "orderedQuantity": 6
+    },
+    {
+      "id": "7af211c3-fa61-43a2-99cb-2c9cb98762a7",
+      "name": "Shrimp - Prawn",
+      "price": 9.59,
+      "orderedQuantity": 4
+    }
+  ]
+}
